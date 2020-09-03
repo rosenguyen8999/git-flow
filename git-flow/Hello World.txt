@@ -1,1 +1,3 @@
 Hello World!
+New option 1
+New option 2
